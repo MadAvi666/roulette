@@ -1,6 +1,6 @@
-import { allItems } from "./items.js";
-import { cases } from "./cases.js";
-import { Player } from "./player.js";
+import { allItems } from "/src/items.js";
+import { cases } from "/src/cases.js";
+import { Player } from "/src/player.js";
 const casesContainer = document.querySelector(".cases-container");
 const casesOpen = document.querySelector(".cases-open");
 const casesFrame = document.querySelector(".cases-frame");
