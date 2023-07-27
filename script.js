@@ -1,4 +1,4 @@
-import { allItems } from "src/items.js";
+import { allItems } from "items.js";
 import { cases } from "cases.js";
 import { Player } from "player.js";
 const casesContainer = document.querySelector(".cases-container");
